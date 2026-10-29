@@ -4,6 +4,10 @@ A personal finance tracker for Android, built with React Native and Expo. It is 
 
 Web app: https://smart-finance-tracker-drab.vercel.app
 
+## Download
+
+[**Download the latest APK**](https://github.com/Abd1920/smart-finance-mobile/releases/latest) for Android. Open the file on your phone and allow the install.
+
 ## Features
 
 - **Accounts** in 9 currencies (LKR, QAR, USD, SAR, INR, AED, EUR, GBP, KRW) with live exchange rates and cross-currency transfers
